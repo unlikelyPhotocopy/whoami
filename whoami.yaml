@@ -28,6 +28,7 @@ metadata:
   labels:
     app: whoami
     hpecp.hpe.com/hpecp-internal-gateway: "true"
+    hpecp.hpe.com/portname-override: "hello-world" 
 spec:
   type: NodePort
   ports:
