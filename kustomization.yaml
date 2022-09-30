@@ -1,4 +1,4 @@
-namespace: whoami 
+namespace: fio 
 
 resources:
 - whoami.yaml
